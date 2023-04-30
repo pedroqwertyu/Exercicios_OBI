@@ -7,3 +7,5 @@ Infelizmente, de vez em quando seu chefe fala números errados para você ao tel
 Felizmente, seu chefe rapidamente percebe que falou um número errado e diz "zero", 
 que como combinado previamente quer dizer ignore o último número corrente.
 Para não deixar seu chefe ainda mais nervoso, escreva um programa que determine a soma total dos números falados por seu chefe ao telefone.
+
+Obs: as entradas são por um array e a saida são por console
